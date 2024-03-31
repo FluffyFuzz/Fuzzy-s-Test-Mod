@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+ModDesc: My first mod project
+ServerMod: com.fuzzy.fuzzysmod.SomeStuffServer
+For-FoxLoader-Version: 1.2.38
+ClientMod: com.fuzzy.fuzzysmod.SomeStuffClient
+ModName: Fuzzy's Test Mod
+ModVersion: 1.1.1
+For-ReIndev-Version: 2.8.1_5
+ModId: fuzzysmod
+
